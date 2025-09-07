@@ -79,3 +79,5 @@ taskForm.addEventListener("submit", (e) => {
 
   addOrUpdateTask();
 });
+
+const deleteTask = (buttonEl) => {};
